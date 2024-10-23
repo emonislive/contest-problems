@@ -7,14 +7,14 @@ using namespace std;
 int main() 
 {
     optimize();
-	  ll a, b;
-	  cin >> a >> b;
+    ll a, b;
+    cin >> a >> b;
     ll mul = a * 2;
 	  
     if (mul >= b)
-	      cout << "METAL" << endl;
-	  else
-	      cout << "PLASTIC" << endl;
+	cout << "METAL" << endl;
+    else
+	cout << "PLASTIC" << endl;
   
-      return 0;
+   return 0;
 }
