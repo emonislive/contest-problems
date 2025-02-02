@@ -1,1 +1,1 @@
-This collection of code represents my learning process as a competitive programmer. Each solution is a stepping stone in my development. I welcome feedback, suggestions, and contributions to help me grow as a problem solver.
+This collection of code represents my learning process as a competitive programmer. Each solution is a stepping stone in my development.
